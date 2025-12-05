@@ -25,7 +25,7 @@ If you want to search & filters the complete database of [.BOO one word domains]
 | aaron.boo      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.boo  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.boo      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.boo  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.boo  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.boo    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.boo     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.boo   | available | 54       | 1%     | 8      |           |         |         |
@@ -34,7 +34,7 @@ If you want to search & filters the complete database of [.BOO one word domains]
 | abbatial.boo   | available | 50       | 1%     | 8      |           |         |         |
 | abc.boo        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.boo  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.boo  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.boo  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.boo | available | 56       | 1%     | 10     |           |         |         |
 | abducens.boo   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.boo   | available | 68       | 1%     | 8      |           |         |         |
@@ -43,7 +43,7 @@ If you want to search & filters the complete database of [.BOO one word domains]
 | aberdonian.boo | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.boo   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.boo    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.boo  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.boo  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.boo    | available | 106      | 5%     | 7      |           |         |         |
 | abient.boo     | available | 54       | 1%     | 6      |           |         |         |
 | ability.boo    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.BOO one word domains]
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |

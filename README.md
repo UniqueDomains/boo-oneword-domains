@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BOO one-word domains still available to buy.
 
-This dataset contains 4,908 .BOO one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,906 .BOO one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BOO one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=boo-oneword-domains&utm_content=description.top) (4,908) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.BOO one word domains]
 
 | Domain         | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.boo        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.boo      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.boo        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.boo      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.boo  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.boo      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.boo  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.BOO one word domains]
 | abatic.boo     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.boo    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.boo   | available | 50       | 1%     | 8      |           |         |         |
-| abc.boo        | available | 102      | 41%    | 3      |           |         |         |
+| abc.boo        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.boo  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.boo  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.boo | available | 56       | 1%     | 10     |           |         |         |

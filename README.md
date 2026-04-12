@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .boo one-word domains from Unique 
 
 **Public extract:** 9,847 rows · **Live catalog:** 9,847 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/boo`  
 **Best for:** founders, investors, studios
 
@@ -76,14 +76,14 @@ print(df.head())
 | seventeen.boo  | premium   | $36.25    | $36.25        | 84             | 62     | 9      | name.com        |
 | death.boo      | available | $14.99    | $19.99        | 62             | 28     | 5      | name.com        |
 | enterprise.boo | premium   | $648.70   | $648.70       | 68             | 61     | 10     | namecheap       |
-| adept.boo      | available | $14.99    | $19.99        | 92             | 27     | 5      | name.com        |
-| free.boo       | premium   | $623.75   | $623.75       | 88             | 59     | 4      | name.com        |
 | curative.boo   | available | $14.99    | $19.99        | 92             | 27     | 8      | name.com        |
+| free.boo       | premium   | $623.75   | $623.75       | 88             | 59     | 4      | name.com        |
+| adept.boo      | available | $14.99    | $19.99        | 92             | 26     | 5      | name.com        |
 | cloud.boo      | premium   | $1,298.70 | $1,298.70     | 70             | 59     | 5      | namecheap       |
 | remedial.boo   | available | $14.99    | $19.99        | 86             | 24     | 8      | name.com        |
 | ace.boo        | premium   | $623.75   | $623.75       | 88             | 57     | 3      | name.com        |
 | critical.boo   | available | $14.99    | $19.99        | 82             | 24     | 8      | name.com        |
-| data.boo       | premium   | $648.70   | $648.70       | 70             | 56     | 4      | namecheap       |
+| live.boo       | premium   | $623.75   | $623.75       | 108            | 56     | 4      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOO One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOO One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

@@ -77,11 +77,11 @@ print(df.head())
 | death.boo      | available | $14.99    | $19.99        | 62             | 28     | 5      | name.com        |
 | enterprise.boo | premium   | $648.70   | $648.70       | 68             | 61     | 10     | namecheap       |
 | curative.boo   | available | $14.99    | $19.99        | 92             | 27     | 8      | name.com        |
-| free.boo       | premium   | $623.75   | $623.75       | 88             | 59     | 4      | name.com        |
-| adept.boo      | available | $14.99    | $19.99        | 92             | 26     | 5      | name.com        |
 | cloud.boo      | premium   | $1,298.70 | $1,298.70     | 70             | 59     | 5      | namecheap       |
-| remedial.boo   | available | $14.99    | $19.99        | 86             | 24     | 8      | name.com        |
+| adept.boo      | available | $14.99    | $19.99        | 92             | 26     | 5      | name.com        |
 | ace.boo        | premium   | $623.75   | $623.75       | 88             | 57     | 3      | name.com        |
+| remedial.boo   | available | $14.99    | $19.99        | 86             | 24     | 8      | name.com        |
+| free.boo       | premium   | $623.75   | $623.75       | 88             | 57     | 4      | name.com        |
 | critical.boo   | available | $14.99    | $19.99        | 82             | 24     | 8      | name.com        |
 | live.boo       | premium   | $623.75   | $623.75       | 108            | 56     | 4      | name.com        |
 

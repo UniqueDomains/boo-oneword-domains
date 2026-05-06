@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .boo one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,836 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,836 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,836 domains · **Median ask:** $74.78 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/boo`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| RedSox.boo        | available | $16.98    | —             | 72             | 60     | 7      | namecheap |
-| makers.boo        | premium   | $73.75    | —             | 62             | 67     | 6      | name.com  |
-| shortcuts.boo     | available | $14.99    | —             | 48             | 41     | 10     | name.com  |
-| donuts.boo        | premium   | $161.25   | —             | 54             | 62     | 6      | name.com  |
-| commonground.boo  | available | $14.99    | —             | 74             | 28     | 13     | name.com  |
-| travelers.boo     | premium   | $36.25    | —             | 58             | 61     | 9      | name.com  |
-| echoes.boo        | available | $14.99    | —             | 56             | 24     | 6      | name.com  |
-| agents.boo        | premium   | $311.25   | —             | 56             | 50     | 6      | name.com  |
-| motorsport.boo    | available | $14.99    | —             | 74             | 23     | 10     | name.com  |
-| Books.boo         | premium   | $1,398.60 | $1,398.60     | 52             | 49     | 5      | namecheap |
-| Allie.boo         | available | $16.98    | —             | 72             | 21     | 5      | namecheap |
-| Ryan.boo          | premium   | $348.60   | $348.60       | 60             | 44     | 4      | namecheap |
-| smartest.boo      | available | $14.99    | —             | 64             | 20     | 8      | name.com  |
-| justin.boo        | premium   | $311.25   | —             | 58             | 38     | 7      | name.com  |
-| snaps.boo         | available | $14.99    | —             | 52             | 20     | 5      | name.com  |
-| tickets.boo       | premium   | $623.75   | —             | 64             | 34     | 7      | name.com  |
-| techsupport.boo   | available | $14.99    | —             | 76             | 18     | 12     | name.com  |
-| spectra.boo       | premium   | $73.75    | —             | 62             | 34     | 7      | name.com  |
-| enlightenment.boo | available | $14.99    | —             | 62             | 18     | 13     | name.com  |
-| etc.boo           | premium   | $623.75   | —             | 58             | 34     | 3      | name.com  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| QandA.boo        | available | $16.98    | —             | 80             | 10     | 7      | namecheap |
+| toneup.boo       | available | $14.99    | —             | 80             | 5      | 7      | name.com  |
+| Netflix.boo      | premium   | —         | —             | 92             | 58     | 7      | —         |
+| getlife.boo      | available | $14.99    | —             | 80             | 5      | 8      | name.com  |
+| beawake.boo      | available | $14.99    | —             | 84             | 3      | 8      | name.com  |
+| fitinto.boo      | available | $14.99    | —             | 84             | 2      | 8      | name.com  |
+| bedframe.boo     | available | $14.99    | —             | 80             | 3      | 9      | name.com  |
+| RedSox.boo       | available | $16.98    | —             | 72             | 60     | 7      | namecheap |
+| makers.boo       | premium   | $73.75    | —             | 62             | 67     | 6      | name.com  |
+| shortcuts.boo    | available | $14.99    | —             | 48             | 41     | 10     | name.com  |
+| donuts.boo       | premium   | $161.25   | —             | 54             | 62     | 6      | name.com  |
+| commonground.boo | available | $14.99    | —             | 74             | 28     | 13     | name.com  |
+| travelers.boo    | premium   | $36.25    | —             | 58             | 61     | 9      | name.com  |
+| echoes.boo       | available | $14.99    | —             | 56             | 24     | 6      | name.com  |
+| agents.boo       | premium   | $311.25   | —             | 56             | 50     | 6      | name.com  |
+| motorsport.boo   | available | $14.99    | —             | 74             | 23     | 10     | name.com  |
+| Books.boo        | premium   | $1,398.60 | $1,398.60     | 52             | 49     | 5      | namecheap |
+| Allie.boo        | available | $16.98    | —             | 72             | 21     | 5      | namecheap |
+| Ryan.boo         | premium   | $348.60   | $348.60       | 60             | 44     | 4      | namecheap |
+| smartest.boo     | available | $14.99    | —             | 64             | 20     | 8      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,836 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,836 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of .boo domains. The set ranges from short coined forms like Acup.boo and barup.boo to clearer dictionary or phrase-like names such as finals.boo, gearup.boo, dogsit.boo, edamame.boo, QandA.boo, and toneup.boo. For founders, the main question is whether a .boo ending helps the name feel memorable without adding confusion. For investors, the key issue is selectivity: the median ask is 74.78, but resale and spread signals are not established in the provided stats. When comparing these domains, focus on clean spelling, obvious pronunciation, commercial use cases, and any trademark exposure in names tied to existing brands.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All domains in this selection use the .boo extension
+- 12,836 domains; median ask is 74.78
+- Examples include gearup.boo, toneup.boo, finals.boo
+- Check brand clarity and trademark exposure closely
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOO One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOO One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

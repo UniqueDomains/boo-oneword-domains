@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .boo one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,836 domains · **Median ask:** $74.78 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/boo`  
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | Netflix.boo      | premium   | —         | —             | 92             | 58     | 7      | —         |
 | getlife.boo      | available | $14.99    | —             | 80             | 5      | 8      | name.com  |
 | beawake.boo      | available | $14.99    | —             | 84             | 3      | 8      | name.com  |
-| fitinto.boo      | available | $14.99    | —             | 84             | 2      | 8      | name.com  |
+| fitinto.boo      | available | $14.99    | —             | 84             | 1      | 8      | name.com  |
 | bedframe.boo     | available | $14.99    | —             | 80             | 3      | 9      | name.com  |
 | RedSox.boo       | available | $16.98    | —             | 72             | 60     | 7      | namecheap |
 | makers.boo       | premium   | $73.75    | —             | 62             | 67     | 6      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOO One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOO One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

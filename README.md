@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .boo one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,788 domains · **Median ask:** $72.69 · **High-demand under $2,500:** 26
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/boo`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| ague.boo | available | $12.98    | $16.98        | low            | low    | 4      | namecheap |
-| act.boo  | premium   | $1,248.75 | —             | high           | low    | 3      | name.com  |
-| ahuh.boo | available | $14.99    | —             | high           | low    | 4      | name.com  |
-| ana.boo  | premium   | $311.25   | —             | high           | low    | 3      | name.com  |
-| arum.boo | available | $12.98    | $16.98        | low            | low    | 4      | namecheap |
-| bow.boo  | premium   | $161.25   | —             | high           | low    | 3      | name.com  |
-| Audi.boo | available | $14.99    | —             | high           | high   | 4      | name.com  |
-| CNN.boo  | premium   | $73.75    | —             | high           | low    | 3      | name.com  |
-| ecru.boo | available | $12.98    | $16.98        | low            | low    | 4      | namecheap |
-| dip.boo  | premium   | $161.25   | $161.25       | high           | low    | 3      | name.com  |
-| eyry.boo | available | $12.98    | $16.98        | low            | low    | 4      | namecheap |
-| DIY.boo  | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
-| flee.boo | available | $14.99    | —             | medium         | low    | 4      | name.com  |
-| dog.boo  | premium   | $1,248.75 | —             | high           | low    | 3      | name.com  |
-| flew.boo | available | $14.99    | —             | high           | low    | 4      | name.com  |
-| don.boo  | premium   | $311.25   | —             | high           | low    | 3      | name.com  |
-| ford.boo | available | $14.99    | —             | high           | high   | 4      | name.com  |
-| eye.boo  | premium   | $623.75   | —             | medium         | low    | 3      | name.com  |
-| thou.boo | available | $14.99    | $19.99        | medium         | low    | 4      | name.com  |
-| far.boo  | premium   | $311.25   | —             | high           | low    | 3      | name.com  |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| half.boo  | premium   | $1,248.75 | —             | high           | low    | 4      | name.com  |
+| great.boo | premium   | $623.75   | —             | high           | low    | 5      | name.com  |
+| clean.boo | premium   | $311.25   | —             | high           | low    | 5      | name.com  |
+| ague.boo  | available | $12.98    | $16.98        | low            | low    | 4      | namecheap |
+| act.boo   | premium   | $1,248.75 | —             | high           | low    | 3      | name.com  |
+| ahuh.boo  | available | $14.99    | —             | high           | low    | 4      | name.com  |
+| ana.boo   | premium   | $311.25   | —             | high           | low    | 3      | name.com  |
+| arum.boo  | available | $12.98    | $16.98        | low            | low    | 4      | namecheap |
+| bow.boo   | premium   | $161.25   | —             | high           | low    | 3      | name.com  |
+| Audi.boo  | available | $14.99    | —             | high           | high   | 4      | name.com  |
+| CNN.boo   | premium   | $73.75    | —             | high           | low    | 3      | name.com  |
+| ecru.boo  | available | $12.98    | $16.98        | low            | low    | 4      | namecheap |
+| dip.boo   | premium   | $161.25   | $161.25       | high           | low    | 3      | name.com  |
+| eyry.boo  | available | $12.98    | $16.98        | low            | low    | 4      | namecheap |
+| DIY.boo   | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
+| flee.boo  | available | $14.99    | —             | medium         | low    | 4      | name.com  |
+| dog.boo   | premium   | $1,248.75 | —             | high           | low    | 3      | name.com  |
+| flew.boo  | available | $14.99    | —             | high           | low    | 4      | name.com  |
+| don.boo   | premium   | $311.25   | —             | high           | low    | 3      | name.com  |
+| ford.boo  | available | $14.99    | —             | high           | high   | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOO One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOO One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

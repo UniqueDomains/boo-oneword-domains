@@ -1,10 +1,10 @@
-# Available .BOO One-Word Domains (24,266)
+# Available .BOO One-Word Domains (24,379)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C266%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C379%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .boo one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,266 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,379 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,266 domains · **Median ask:** $70.55 · **High-demand under $2,500:** 54
+**Public extract:** 1,000 rows · **Live catalog:** 24,379 domains · **Median ask:** $70.65 · **High-demand under $2,500:** 54
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/boo`
@@ -66,23 +66,23 @@ print(df.head())
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | akko.boo     | available | $12.98    | $16.98        | high           | low    | 4      | namecheap       |
 | complain.boo | resell    | —         | —             | high           | low    | 8      | Spaceship, Inc. |
-| bce.boo      | premium   | $73.75    | —             | high           | low    | 3      | name.com        |
+| atc.boo      | premium   | $167.70   | $167.70       | high           | low    | 3      | namecheap       |
 | amia.boo     | available | $12.98    | $16.98        | high           | low    | 4      | namecheap       |
-| bid.boo      | premium   | $623.75   | —             | high           | low    | 3      | name.com        |
+| bce.boo      | premium   | $73.75    | —             | high           | low    | 3      | name.com        |
 | anoa.boo     | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap       |
-| cxx.boo      | premium   | $73.75    | $73.75        | high           | low    | 3      | name.com        |
+| bid.boo      | premium   | $623.75   | —             | high           | low    | 3      | name.com        |
 | ards.boo     | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap       |
-| din.boo      | premium   | $73.75    | $73.75        | high           | low    | 3      | name.com        |
+| cxx.boo      | premium   | $73.75    | $73.75        | high           | low    | 3      | name.com        |
 | arid.boo     | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap       |
-| ear.boo      | premium   | $161.25   | —             | high           | low    | 3      | name.com        |
+| din.boo      | premium   | $73.75    | $73.75        | high           | low    | 3      | name.com        |
 | ayah.boo     | available | $12.98    | $16.98        | high           | low    | 4      | namecheap       |
-| egg.boo      | premium   | $311.25   | —             | high           | low    | 3      | name.com        |
+| ear.boo      | premium   | $161.25   | —             | high           | low    | 3      | name.com        |
 | clxv.boo     | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap       |
-| eve.boo      | premium   | $648.70   | $648.70       | high           | medium | 3      | namecheap       |
+| egg.boo      | premium   | $311.25   | —             | high           | low    | 3      | name.com        |
 | clxx.boo     | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap       |
-| fda.boo      | premium   | $76.70    | $76.70        | high           | low    | 3      | namecheap       |
+| eve.boo      | premium   | $648.70   | $648.70       | high           | medium | 3      | namecheap       |
 | eery.boo     | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap       |
-| gag.boo      | premium   | $73.75    | —             | high           | low    | 3      | name.com        |
+| fda.boo      | premium   | $76.70    | $76.70        | high           | low    | 3      | namecheap       |
 | hewn.boo     | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,266 live domains                        |
+| 1,000-row public sample | 24,379 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 54 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |

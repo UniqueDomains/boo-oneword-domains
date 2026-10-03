@@ -1,10 +1,10 @@
-# Available .BOO One-Word Domains (33,830)
+# Available .BOO One-Word Domains (36,168)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C830%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-36%2C168%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .boo one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,830 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **36,168 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,830 domains · **Median ask:** $57.01 · **High-demand under $2,500:** 79
+**Public extract:** 1,000 rows · **Live catalog:** 36,168 domains · **Median ask:** $54.68 · **High-demand under $2,500:** 82
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/boo`
 **Best for:** founders, investors, studios
 
@@ -78,12 +78,12 @@ print(df.head())
 | chas.boo     | available | $10.81    | $10.81        | medium         | low    | 4      | porkbun         |
 | din.boo      | premium   | $73.75    | $73.75        | medium         | low    | 3      | name.com        |
 | clxv.boo     | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap       |
-| ear.boo      | premium   | $129.20   | —             | high           | low    | 3      | unstoppable     |
+| dnr.boo      | premium   | $59.20    | —             | high           | low    | 3      | unstoppable     |
 | eery.boo     | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap       |
 | egg.boo      | premium   | $311.25   | —             | high           | low    | 3      | name.com        |
-| hath.boo     | available | $10.20    | $10.20        | medium         | low    | 4      | cloudflare      |
+| gans.boo     | available | $10.55    | $10.55        | low            | low    | 4      | spaceship       |
 | eia.boo      | premium   | $59.20    | —             | high           | low    | 3      | unstoppable     |
-| hewn.boo     | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap       |
+| hath.boo     | available | $10.20    | $10.20        | medium         | low    | 4      | cloudflare      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,830 live domains                        |
+| 1,000-row public sample | 36,168 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 79 high-demand names under $2,500          |
+| Basic exported fields   | 82 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOO One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOO One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
